@@ -7,4 +7,4 @@ data class Pokemon(
     val height: Int,
     val weight: Int,
     val baseExperience: Int
-) {}
+)

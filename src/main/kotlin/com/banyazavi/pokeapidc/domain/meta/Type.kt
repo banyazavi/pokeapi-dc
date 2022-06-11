@@ -4,4 +4,4 @@ data class Type(
     val id: Int,
     val identifier: String,
     val name: String
-) {}
+)

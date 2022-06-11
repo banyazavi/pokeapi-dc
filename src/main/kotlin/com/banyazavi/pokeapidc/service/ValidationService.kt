@@ -38,8 +38,6 @@ class ValidationService {
             return ResultStatus.INVALID_CHECKSUM
         }
 
-        // TODO: CENSORED and INVALID_ID
-
         return ResultStatus.SUCCESS
     }
 }

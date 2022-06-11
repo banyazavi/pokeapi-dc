@@ -4,4 +4,4 @@ data class PokemonType(
     val pokemonId: Int,
     val typeId: Int,
     val slot: Int
-) {}
+)

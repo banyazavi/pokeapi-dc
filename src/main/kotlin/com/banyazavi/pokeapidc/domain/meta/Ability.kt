@@ -4,4 +4,4 @@ data class Ability(
     val id: Int,
     val identifier: String,
     val name: String
-) {}
+)
